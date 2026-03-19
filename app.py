@@ -104,7 +104,7 @@ with st.sidebar:
 
 # IMAGEN REFERENCIA
 st.markdown("### 🧸 Ejemplo")
-image = Image.open('OIG5.jpg')
+image = Image.open('gatito.jpg')
 st.image(image, width=300)
 
 # INPUT
